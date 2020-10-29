@@ -28,18 +28,13 @@
 	      <li class="nav-item active ">
 	        <a class="nav-link text-warning" href="#">Beranda <span class="sr-only">(current)</span></a>
 	      </li>
-	      <li class="nav-item active">
-	        <a class="nav-link text-warning" href="#">Hubungi Kami <span class="sr-only">(current)</span></a>
-	      </li>
+	    
 	      <li class="nav-item active">
 	        <a class="nav-link text-warning" href="#">Bantuan <span class="sr-only">(current)</span></a>
 	      </li>
 	      
 		    </ul>
-		    <form class="form-inline my-2 my-lg-0">
-		      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-		      <button class="btn btn-outline-warning my-2 my-sm-0" type="submit">Search</button>
-		    </form>
+		  
 		    <div class="icon mt-2">
 		    	<h5>
 	    		<i class="fas fa-cart-arrow-down ml-3 mr-3 text-warning"></i>
@@ -75,6 +70,7 @@
                <li class="nav-item active">
 	        <a class="nav-link text-light text-center btn-primary btn-block" href="informatika">Login <span class="sr-only">(current)</span></a>
 	      </li>
+
               </form>
             </div>
           </div>
